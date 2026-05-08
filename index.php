@@ -1,1 +1,1 @@
-<?php echo "<h1><Integracion Exitosa</h1>"; ?>
+<?php echo "<h1><Integracion Exitosa!!!</h1>"; ?>
